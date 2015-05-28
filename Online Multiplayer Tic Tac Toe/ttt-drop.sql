@@ -1,0 +1,10 @@
+drop trigger testref on game_users;
+drop function insertdata();
+drop sequence hibernate_sequence;
+drop table authorities;
+drop table moves;
+drop table games_played;
+drop table games_saved;
+drop table games;
+drop table game_users;
+drop table users;
